@@ -5,6 +5,7 @@
     https://ollama.com/ 里下载， 下载完成之后在命令行里输入ollama -v 有输出即为下载成功
   
 2.本地部署deepseek
+      
       deepseek-r1:671b	671B	ollama run deepseek-r1:671b	需要极高的硬件配置，显存需求超过336GB
       
       deepseek-r1:1.5b	1.5B	ollama run deepseek-r1:1.5b	最低配置：8GB RAM，无显卡加速；适合老旧设备
