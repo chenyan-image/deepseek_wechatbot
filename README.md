@@ -1,0 +1,2 @@
+# deepseek_wechatbot
+本地deepseek模型当作聊天机器人充当微信聊天机器人
